@@ -8,8 +8,10 @@
 </p>
 
 <p align="center">
-  <img src="assets/result_frame_easy.jpg" alt="Пример: хорошо детектируется" width="45%">
-  <img src="assets/result_frame_crowd.jpg" alt="Пример: плотная толпа" width="45%">
+  <p>Пример: плотная толпа</p>
+  <img src="assets/result_frame_crowd.png" alt="Пример: плотная толпа" width="50%">
+  <p>Пример: хорошо детектируется</p>
+  <img src="assets/result_frame_easy.png" alt="Пример: хорошо детектируется" width="100%">
 </p>
 
 ---
