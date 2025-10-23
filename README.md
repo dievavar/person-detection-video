@@ -3,16 +3,15 @@
 
 > Ниже — короткая GIF-демонстрация результата и пара ключевых кадров.
 
-<p align="center">
-  <img src="assets/demo.gif" alt="Демонстрация результата" width="720">
-</p>
 
-<p align="center">
-  <p>Пример: плотная толпа</p>
-  <img src="assets/result_frame_crowd.png" alt="Пример: плотная толпа" width="50%">
-  <p>Пример: хорошо детектируется</p>
-  <img src="assets/result_frame_easy.png" alt="Пример: хорошо детектируется" width="100%">
-</p>
+![Демонстрация результата](assets/demo.gif)
+
+<p>Пример: плотная толпа</p>
+<img src="assets/result_frame_crowd.png" alt="Пример: плотная толпа" width="50%">
+
+<p>Пример: хорошо детектируется</p>
+<img src="assets/result_frame_easy.png" alt="Пример: хорошо детектируется" width="100%">
+
 
 ---
 
